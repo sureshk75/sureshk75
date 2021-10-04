@@ -1,7 +1,8 @@
-![Suresh's 42 Stats](https://badge42.herokuapp.com/api/stats/schetty?privacyEmail=true)]
+![Suresh's 42 Stats](https://badge42.herokuapp.com/api/stats/schetty?privacyEmail=true)
 
 ### Hi there 👋
 
+I’m currently working on on this landing page!
 <!--
 **sureshk75/sureshk75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
